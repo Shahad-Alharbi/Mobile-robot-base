@@ -13,7 +13,7 @@ When we click on one of the direction buttons such as Forward, the data will be 
 ![image](https://user-images.githubusercontent.com/85777087/125197413-25951180-e266-11eb-91c8-bdcdd462e8e8.png)
 
 ## Create PHP pages to connect the database with the hardware (Base):
-After Saved the data on the database, I connected the database with the hardware by PHP pages to moving the robot base 
+After Saved the data on the database, I connected the database with the hardware by PHP pages to moving the robot base.
 ![image](https://user-images.githubusercontent.com/85777087/125197659-4f026d00-e267-11eb-88b2-ff4cd6b24a3c.png)
 
 ## Integrating the robot arms control panel with the robot base control panel in one interface:
